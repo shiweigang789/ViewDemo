@@ -4,6 +4,6 @@
 
       github链接：https://github.com/alidili/TempControlView
       
-      ![imagee](https://github.com/shiweigang789/ViewDemo/image/tempview.git)
+![imagee](https://github.com/shiweigang789/ViewDemo/image/tempview.git)
       
       
