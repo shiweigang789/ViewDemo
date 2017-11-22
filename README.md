@@ -9,5 +9,12 @@
 ![image](https://github.com/shiweigang789/ViewDemo/blob/master/image/tempview.gif)
 
 
+2.空气净化效果
+
+[github链接](https://github.com/mochixuan/AirPurgeView)
+      
+![image](https://github.com/shiweigang789/ViewDemo/blob/master/image/airpurge.gif)
+
+
       
       
